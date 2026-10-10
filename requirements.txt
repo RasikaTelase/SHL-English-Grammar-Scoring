@@ -1,0 +1,17 @@
+# Core ML & Data Processing
+numpy
+pandas
+scikit-learn
+scipy
+
+# Audio Processing
+librosa
+soundfile
+
+# Speech Recognition & NLP
+openai-whisper
+language-tool-python
+spacy
+
+# Web Interface
+streamlit

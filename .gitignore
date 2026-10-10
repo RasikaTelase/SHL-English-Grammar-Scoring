@@ -1,0 +1,44 @@
+# Python Bytecode & Environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Raw Competition Dataset, Audio Files & Metadata
+data/
+*.wav
+
+# Extracted Features, Transcripts & Local Predictions
+artifacts/
+artifacts/features/
+artifacts/transcripts/
+artifacts/predictions/
+
+# Model Artifacts
+models/
+*.joblib
+*.pkl
+
+# Generated Final Submission File
+submission.csv
+submission*.csv
+
+# Secrets, Environment & Config Files
+.env
+.env.*
+*.secret
+*.key
+*.pem
+
+# Scratch Files, Temporary Scripts & Logs
+scratch/
+*.log
+.DS_Store
+Thumbs.db
